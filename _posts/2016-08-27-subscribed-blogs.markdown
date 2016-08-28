@@ -21,3 +21,4 @@ Subscribed Blogs
 - [Jetbrains](https://blog.jetbrains.com/)
 - [Firebase](https://firebase.googleblog.com/)
 - [Docker](https://blog.docker.com)
+- [Heroku](https://blog.heroku.com/)
