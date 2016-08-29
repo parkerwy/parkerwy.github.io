@@ -49,6 +49,6 @@ by Frederick P. Brooks Jr.
 2010 [Hackers & Painters: Big Ideas from the Computer Age](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554) by Paul Graham
 
 
-2015 [Scrum and Xp from the Trenches 2nd Edition](https://www.amazon.com/Scrum-Trenches-2nd-Henrik-Kniberg/dp/1329224272) by Henrik Kniberg
+2007 [Scrum and XP from the Trenches (Enterprise Software Development)](https://www.amazon.com/Scrum-Trenches-Enterprise-Software-Development/dp/1430322640) by Henrik Kniberg
 
 2006 [Java Transaction Design Strategies](https://www.amazon.com/Java-Transaction-Design-Strategies-Richards/dp/1411695917) by Mark Richards
