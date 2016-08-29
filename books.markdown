@@ -5,6 +5,10 @@ title:  "Books"
 
 # Recommended Books
 
+### 2014
+
+[Big Data: A Revolution That Will Transform How We Live, Work, and Think](https://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/0544227751) by Viktor Mayer-Schönberger and Kenneth Cukier
+
 ### 2010
 
 [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) by Jez Humble and David Farley
