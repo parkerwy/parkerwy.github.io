@@ -25,3 +25,16 @@ by Frederick P. Brooks Jr.
 2004 [Joel on Software](https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898) by Joel Spolsky
 
 1999 [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas
+
+2003 [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans
+
+2007 [Implementation Patterns](https://www.amazon.com/Implementation-Patterns-Kent-Beck/dp/0321413091) by Kent Beck
+
+
+2003 [Software Configuration Management Patterns: Effective Teamwork, Practical Integration](https://www.amazon.com/Software-Configuration-Management-Patterns-Integration/dp/0201741172) by Stephen P. Berczuk and Brad Appleton
+
+
+
+
+
+
