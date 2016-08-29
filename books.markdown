@@ -5,10 +5,6 @@ title:  "Books"
 
 # Recommended Books
 
-### 2013 
-
-[Peopleware: Productive Projects and Teams (3rd Edition)](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113) by Tom DeMarco and Tim Lister
-
 ### 2010
 
 [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) by Jez Humble and David Farley
@@ -60,6 +56,8 @@ title:  "Books"
 [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) by Martin Fowler, Kent Beck
 
 [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas
+
+[Peopleware: Productive Projects and Teams (Second Edition)](https://www.amazon.com/Peopleware-Productive-Projects-Teams-Second/dp/0932633439) by Tom DeMarco and Timothy Lister
 
 ### 1995
 
