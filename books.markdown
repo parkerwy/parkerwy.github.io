@@ -19,3 +19,9 @@ by Frederick P. Brooks Jr.
 2002 [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) by Martin Fowler
 
 1994 [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) by Erich Gamma and Richard Helm
+
+2001 [Software Craftsmanship: The New Imperative](https://www.amazon.com/Software-Craftsmanship-Imperative-Pete-McBreen/dp/0201733862) by Pete McBreen
+
+2004 [Joel on Software](https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898) by Joel Spolsky
+
+1999 [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas
