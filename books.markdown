@@ -40,3 +40,15 @@ by Frederick P. Brooks Jr.
 2010 [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) by Jez Humble and David Farley
 
 
+2009 [Why Programs Fail, Second Edition: A Guide to Systematic Debugging](https://www.amazon.com/Why-Programs-Fail-Second-Systematic/dp/0123745152) by Andreas Zeller
+
+
+2006 [Java Concurrency in Practice](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601) by Brian Goetz and Tim Peierls
+
+
+2010 [Hackers & Painters: Big Ideas from the Computer Age](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554) by Paul Graham
+
+
+2015 [Scrum and Xp from the Trenches 2nd Edition](https://www.amazon.com/Scrum-Trenches-2nd-Henrik-Kniberg/dp/1329224272) by Henrik Kniberg
+
+2006 [Java Transaction Design Strategies](https://www.amazon.com/Java-Transaction-Design-Strategies-Richards/dp/1411695917) by Mark Richards
