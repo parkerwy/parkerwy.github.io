@@ -35,6 +35,8 @@ by Frederick P. Brooks Jr.
 
 
 
+2007 [Continuous Integration: Improving Software Quality and Reducing Risk](https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380) by Paul M. Duvall and Steve Matyas
 
+2010 [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) by Jez Humble and David Farley
 
 
