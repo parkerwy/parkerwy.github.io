@@ -1,6 +1,5 @@
 ---
 layout: default
-title: {{ site.name }}
 permalink: "/404.html"
 ---
 
