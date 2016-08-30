@@ -13,7 +13,7 @@ title:  "Books"
 
 [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) by Jez Humble and David Farley
 
-[Hackers & Painters: Big Ideas from the Computer Age](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554) by Paul Graham :star:
+[Hackers & Painters: Big Ideas from the Computer Age](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554) by Paul Graham :star::star::star::star::star:
 
 ### 2009
 
@@ -29,25 +29,25 @@ title:  "Books"
 
 ### 2006
 
-[Java Concurrency in Practice](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601) by Brian Goetz and Tim Peierls
+[Java Concurrency in Practice](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601) by Brian Goetz and Tim Peierls :star::star::star::star:
 
-[Java Transaction Design Strategies](https://www.amazon.com/Java-Transaction-Design-Strategies-Richards/dp/1411695917) by Mark Richards
+[Java Transaction Design Strategies](https://www.amazon.com/Java-Transaction-Design-Strategies-Richards/dp/1411695917) by Mark Richards :star::star::star:
 
 ### 2004
 
 [Code Complete: A Practical Handbook of Software Construction, Second Edition](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) by Steve McConnell
 
-[Joel on Software](https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898) by Joel Spolsky
+[Joel on Software](https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898) by Joel Spolsky :star::star::star::star::star:
 
 ### 2003
 
-[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans
+[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans :star::star::star::star::star:
 
-[Software Configuration Management Patterns: Effective Teamwork, Practical Integration](https://www.amazon.com/Software-Configuration-Management-Patterns-Integration/dp/0201741172) by Stephen P. Berczuk and Brad Appleton
+[Software Configuration Management Patterns: Effective Teamwork, Practical Integration](https://www.amazon.com/Software-Configuration-Management-Patterns-Integration/dp/0201741172) by Stephen P. Berczuk and Brad Appleton :star::star::star:
 
 ### 2002 
 
-[Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) by Robert C. Martin
+[Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) by Robert C. Martin :star::star::star::star::star:
 
 [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) by Martin Fowler
 
