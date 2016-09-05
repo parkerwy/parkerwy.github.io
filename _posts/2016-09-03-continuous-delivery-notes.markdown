@@ -31,3 +31,6 @@ categories: main
 > a problem. However, watch out that you don’t introduce untrustworthy tests 
 > that fail intermittently with this strategy.
 
+### Deploying and Releasing Applications
+
+> Use the same process to deploy to every environment, including produc- tion.
